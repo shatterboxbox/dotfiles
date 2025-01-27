@@ -13,7 +13,7 @@ source "${ZINIT_HOME}/zinit.zsh"
 alias cls="clear"
 alias ls="ls --color -a"
 alias cd..="cd .."
-#alias cd="z"
+alias cd="z"
 
 #zsh plugins
 zinit light zsh-users/zsh-syntax-highlighting
